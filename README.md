@@ -115,7 +115,8 @@ CREATE TABLE employees (
 
 ## Project Documentation
 
-[View Full Project Analysis and Queries](SQL_Filtering_Security_Investigation.doc.pdf)
+[View Full Project Analysis and Queries][SQL_Filtering_Security_Investigation.doc.pdf](https://github.com/user-attachments/files/23683233/SQL_Filtering_Security_Investigation.doc.pdf)
+
 
 ## Author
 
