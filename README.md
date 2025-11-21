@@ -33,7 +33,8 @@ This project demonstrates practical SQL applications in cybersecurity through an
 
 ## 📄 Documentation
 
-[View Full Project Analysis](SQL_Filtering_Security_Investigation.pdf)
+[View Full Project Analysis][SQL_Filtering_Security_Investigation.doc.pdf](https://github.com/user-attachments/files/23683043/SQL_Filtering_Security_Investigation.doc.pdf)
+
 
 ## 👤 Author
 
